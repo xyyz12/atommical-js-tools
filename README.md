@@ -1,6 +1,8 @@
 一些方便玩atommicals和ordinals的脚本，使用说明脚本里面都有。
 关注我推特获取更多内容：https://twitter.com/wusimpl
 
+目前使用，v2.22
+
 1、脚本条件
 
 node 16+   和   python 3.8-11版本
