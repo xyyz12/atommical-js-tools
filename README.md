@@ -5,7 +5,6 @@
 
 node 16+   和   python 3.8-11版本
 
-
 2、设置
 
 ![image](https://github.com/xyyz12/atommical-js-tools/assets/91812763/a6c303f7-d591-45fe-9651-986b98fcf4b0)
